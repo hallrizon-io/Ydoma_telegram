@@ -1,1 +1,1 @@
-# Ydoma_telegram
+# Ydoma - telegram interface 

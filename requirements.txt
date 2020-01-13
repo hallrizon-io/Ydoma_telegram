@@ -1,0 +1,2 @@
+python-dotenv==0.10.3
+aiogram==2.5.3
